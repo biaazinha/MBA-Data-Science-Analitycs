@@ -24,4 +24,4 @@ Este repositório tem como objetivo documentar minha jornada no MBA em Data Scie
 📁 Estrutura do Repositório
 A estrutura está organizada por disciplinas ou módulos, contendo os notebooks, scripts, e bases de dados utilizadas em cada tema trabalhado.
 
-📍 Curso em andamento — novos materiais serão adicionados conforme avanço nos módulos.
+📍 Curso em andamento: novos materiais serão adicionados conforme avanço nos módulos.
