@@ -3,8 +3,8 @@ Este repositório tem como objetivo documentar minha jornada no MBA em Data Scie
 
 🧠 Conteúdos Abordados:
 - Fundamentos de Estatística Aplicada
-- Técnicas de Regressão (Linear e Logística)
-- Algoritmos de Machine Learning (Supervisionado e Não Supervisionado)
+- Técnicas de Regressão 
+- Algoritmos de Machine Learning 
 - Modelos Preditivos
 - Limpeza e Tratamento de Dados
 - Redes Neurais e Deep Learning
